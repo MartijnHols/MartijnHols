@@ -23,9 +23,4 @@ https://gist.github.com/MartijnHols/709965559cbdb6b241c12e5866941e69
 
 This is an article about how to properly handle page transitions when the user drags the edge of their screen to navigate back/forward in Safari. While short, it shows some of my modern design principles (although parts were omitted for simplification).
 
-### @emico/eslint-config
-https://github.com/EmicoEcommerce/eslint-config (MIT)
-
-While I was working for Emico, we wanted an ESLint config that focussed on consistent quality code from all developers without getting in the way. None of the existing ESLint rulesets we could find met that criteria. To solve this [I developed](https://xkcd.com/927/) a custom ESLint config that only restricted important things while leaving code style issues to be automatically fixed in precommit hooks. This minimizes the interruptions while writing code, allowing developers to work at high speed while also keeping code style very consistent.
-
 Most of my React/TypeScript experience has been in closed source projects such as [esd.next](https://needstaffing.esdnext.com/), [PME Legend](https://www.pme-legend.com/), [PlatteTV](https://www.plattetv.nl/) and [Jetje](https://jetje.nl). For each of these projects I was responsible for the majority if not all of the architecture. If you're interested in the technologies these applications use, run them through [Bundle Scanner](https://bundlescanner.com/).
